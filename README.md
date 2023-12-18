@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="dhiran45" /> </p>
 
 <h1 align="center">Hi 👋, I'm Dhiran Sapkota</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal</h3>
+<h3 align="center">A passionate Software developer from Nepal</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
@@ -24,12 +24,6 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiransapkota45&show_icons=true&locale=en&layout=compact" alt="dhiran45" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhiransapkota45&show_icons=true&locale=en" alt="dhiransapkota45" /></p> 
-<br/><br/>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiransapkota45&" alt="dhiransapkota45" /></p>
 <!---
 dhiransapkota45/dhiransapkota45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
