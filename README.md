@@ -1,10 +1,7 @@
-<p align="left"> <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="dhiran45" /> </p>
+<p align="left"> </p>
 
 <h1 align="center">Hi 👋, I'm Dhiran Sapkota</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 
 - 📫 How to reach me *dhiransapkota55@gmail.com*
 <h3 align="left">Connect with me:</h3>
